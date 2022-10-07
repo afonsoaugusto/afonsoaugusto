@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/afonsoavr" target="blank"><img src="https://img.shields.io/twitter/follow/afonsoavr?logo=twitter&style=for-the-badge" alt="afonsoavr" /></a> </p>
 
-- 🔭 I’m currently working on [Maxmilhas](www.maxmilhas.com.br)
+- 🔭 I’m currently working on [Zup](https://www.zup.com.br/)
 
 - 🌱 I’m currently learning **Kubernetes, Data Platform Engineer, Kafka, Spark, GO, AWS**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/afonsoaugusto](https://github.com/afonsoaugusto)
 
-- 📝 I regularly write articles on [https://afonsorodrigues.com/blog](https://afonsorodrigues.com/blog)
+- 📝 I regularly write articles on [https://afonsorodrigues.com](https://afonsorodrigues.com)
 
 - 💬 Ask me about **Data Platform Engineer, DevOps, IaC, Pipelines...**
 
@@ -25,9 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/afonsorodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afonsorodrigues" height="30" width="40" /></a>
 <a href="https://twitter.com/afonsoavr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afonsoavr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/afonsoavr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afonsoavr" height="30" width="40" /></a>
 <a href="https://instagram.com/afonsoavr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afonsoavr" height="30" width="40" /></a>
+<a href="https://medium.com/@afonsoavr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afonsoavr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/afonsorodriguesvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afonsorodriguesvr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
